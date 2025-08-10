@@ -1,4 +1,4 @@
-# Machine Learning - Day 3 & Day 4  
+# Machine Learning - Task 3 & Task 4  
 **Linear Regression & Logistic Regression Projects**  
 
 ## 📌 Overview
